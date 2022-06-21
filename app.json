@@ -1,0 +1,25 @@
+{
+    "id": "05024db2-4c34-421c-ac90-23eab1fbe852",
+    "name": "Time Sheet Management System",
+    "contextSensitiveHelpUrl": "http://www.mycompany.com/help",
+    "publisher": "Yazan Al-hemyari",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "This project created to develop Timesheet Management Solution",
+    "privacyStatement": "http://www.mycompany.com/privacy",
+    "EULA": "http://www.mycompany.com/eula",
+    "help": "http://www.mycompany.com/help",
+    "url": "http://www.mycompany.com/privacy",
+    "logo": "./images/IMG-20200816-WA0007.jpg",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "19.0.0.0",
+    "idRanges": [{
+        "from": 1000000,
+        "to": 75999999
+    }],
+    "showMyCode": false,
+    "runtime": "6.0",
+    "features": ["TranslationFile"]
+}
